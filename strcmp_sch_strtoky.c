@@ -1,4 +1,4 @@
-#include "monty.h"
+#include "main.h"
 /**
  * _strcmp - Function that compares two strings.
  * @s1: type str compared
